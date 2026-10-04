@@ -1,0 +1,442 @@
+[
+  {
+    "applicant": {
+      "Submission ID": "OQeXaBa",
+      "Respondent ID": "68Erq5e",
+      "Submitted at": "2026-10-03 11:13:24",
+      "instagram_url": "",
+      "Full name": "Pranav Kunjir",
+      "Email": "pranavkunjir93@gmail.com",
+      "Instagram (username only, no @)": "https://www.instagram.com/pranavkunjir8/",
+      "What do you do, and what are you working on right now?": "sdalfjs",
+      "What's something you built, organized, or helped someone with recently?": "sdfas\n",
+      "What would you bring to the room?": "Ideas, Skills",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/pranavkunjir8/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_pranavkunjir8.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 2,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": 2,
+      "profile_read": {
+        "authentic": "unclear",
+        "activity": "low",
+        "vibe": "minimal with no community signal",
+        "consistency": "unclear"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "possible_test_or_spam"
+      ],
+      "borderline": true,
+      "reason": "The form is complete gibberish indicating zero thought, and the profile is sparse with no evidence connecting the applicant to the running community."
+    },
+    "overall_score": 5.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 2,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": 2,\n  \"profile_read\": {\n    \"authentic\": \"unclear\",\n    \"activity\": \"low\",\n    \"vibe\": \"minimal with no community signal\",\n    \"consistency\": \"unclear\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\"low_effort\", \"possible_test_or_spam\"],\n  \"borderline\": true,\n  \"reason\": \"The form is complete gibberish indicating zero thought, and the profile is sparse with no evidence connecting the applicant to the running community.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "QoaR7YY",
+      "Respondent ID": "rjM2xGM",
+      "Submitted at": "2026-10-03 11:36:08",
+      "instagram_url": "",
+      "Full name": "Pk",
+      "Email": "pranavkunjir93@gmail.com",
+      "Instagram (username only, no @)": "instagram.com/pranav",
+      "What do you do, and what are you working on right now?": "Hello",
+      "What's something you built, organized, or helped someone with recently?": "Ji",
+      "What would you bring to the room?": "Humor, Energy",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://instagram.com/pranav",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_pranav.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 1,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": 2,
+      "profile_read": {
+        "authentic": "no",
+        "activity": "low",
+        "vibe": "Empty and nondescript",
+        "consistency": "mismatch"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "profile_mismatch",
+        "possible_test_or_spam",
+        "needs_manual_check"
+      ],
+      "borderline": false,
+      "reason": "The form consists entirely of nonsensical one-word inputs, and the attached profile shows 0 posts and 0 following, which are typical characteristics of a bot or spam account."
+    },
+    "overall_score": 0.0,
+    "raw_response": "```json\n{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 1,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": 2,\n  \"profile_read\": {\n    \"authentic\": \"no\",\n    \"activity\": \"low\",\n    \"vibe\": \"Empty and nondescript\",\n    \"consistency\": \"mismatch\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\n    \"low_effort\",\n    \"profile_mismatch\",\n    \"possible_test_or_spam\",\n    \"needs_manual_check\"\n  ],\n  \"borderline\": false,\n  \"reason\": \"The form consists entirely of nonsensical one-word inputs, and the attached profile shows 0 posts and 0 following, which are typical characteristics of a bot or spam account.\"\n}\n```"
+  },
+  {
+    "applicant": {
+      "Submission ID": "vXvDPol",
+      "Respondent ID": "rjM2xGM",
+      "Submitted at": "2026-10-03 11:39:25",
+      "instagram_url": "",
+      "Full name": "Pranav kunjir",
+      "Email": "pranavkunjir93@gmail.com",
+      "Instagram (username only, no @)": "@pranavkunjir7",
+      "What do you do, and what are you working on right now?": "Hi",
+      "What's something you built, organized, or helped someone with recently?": "Hi",
+      "What would you bring to the room?": "Introductions",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/pranavkunjir7/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 2,
+      "network": 2,
+      "effort": 1,
+      "profile_signal": 3,
+      "profile_read": {
+        "authentic": "yes",
+        "activity": "medium",
+        "vibe": "personal and casual",
+        "consistency": "mismatch"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort"
+      ],
+      "borderline": false,
+      "reason": "The applicant provided single-word answers indicating zero effort, which is too low to prioritize despite the profile showing a real, casual account."
+    },
+    "overall_score": 10.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 2,\n  \"network\": 2,\n  \"effort\": 1,\n  \"profile_signal\": 3,\n  \"profile_read\": {\n    \"authentic\": \"yes\",\n    \"activity\": \"medium\",\n    \"vibe\": \"personal and casual\",\n    \"consistency\": \"mismatch\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\"low_effort\"],\n  \"borderline\": false,\n  \"reason\": \"The applicant provided single-word answers indicating zero effort, which is too low to prioritize despite the profile showing a real, casual account.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "Z9LONea",
+      "Respondent ID": "obLK6Qe",
+      "Submitted at": "2026-10-03 11:52:06",
+      "instagram_url": "",
+      "Full name": "Tanisha jain",
+      "Email": "tanisha109@gmail.com",
+      "Instagram (username only, no @)": "Tee.buildss",
+      "What do you do, and what are you working on right now?": "Engineer and building community ",
+      "What's something you built, organized, or helped someone with recently?": "Organized event",
+      "What would you bring to the room?": "Energy, Ideas",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/Tee.buildss/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_Tee.buildss.png",
+    "evaluation": {
+      "contribution": 3,
+      "warmth": 4,
+      "fit": 4,
+      "network": 3,
+      "effort": 3,
+      "profile_signal": 4,
+      "profile_read": {
+        "authentic": "yes",
+        "activity": "medium",
+        "vibe": "Positive, energetic, and lifestyle-focused",
+        "consistency": "match"
+      },
+      "recommendation": "waitlist",
+      "flags": [
+        "low_effort"
+      ],
+      "borderline": true,
+      "reason": "Visuals confirm an active, social lifestyle that fits the community vibe, but the form answers are too short to fully verify their potential contribution."
+    },
+    "overall_score": 60.0,
+    "raw_response": "```json\n{\n  \"contribution\": 3,\n  \"warmth\": 4,\n  \"fit\": 4,\n  \"network\": 3,\n  \"effort\": 3,\n  \"profile_signal\": 4,\n  \"profile_read\": {\n    \"authentic\": \"yes\",\n    \"activity\": \"medium\",\n    \"vibe\": \"Positive, energetic, and lifestyle-focused\",\n    \"consistency\": \"match\"\n  },\n  \"recommendation\": \"waitlist\",\n  \"flags\": [\n    \"low_effort\"\n  ],\n  \"borderline\": true,\n  \"reason\": \"Visuals confirm an active, social lifestyle that fits the community vibe, but the form answers are too short to fully verify their potential contribution.\"\n}\n```"
+  },
+  {
+    "applicant": {
+      "Submission ID": "PRW9EAd",
+      "Respondent ID": "814A1D5",
+      "Submitted at": "2026-10-03 12:00:50",
+      "instagram_url": "",
+      "Full name": "Yc",
+      "Email": "yadnesh.chhatre@gmail.com",
+      "Instagram (username only, no @)": "Yad24nesh ",
+      "What do you do, and what are you working on right now?": "",
+      "What's something you built, organized, or helped someone with recently?": "",
+      "What would you bring to the room?": "",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/Yad24nesh/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_Yad24nesh.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 2,
+      "network": 2,
+      "effort": 1,
+      "profile_signal": null,
+      "profile_read": {
+        "authentic": "not_assessed",
+        "activity": "not_assessed",
+        "vibe": "Minimalist / unclear",
+        "consistency": "not_assessed"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "needs_manual_check"
+      ],
+      "borderline": true,
+      "reason": "The applicant failed to provide any details in the form and their public profile does not display a post grid, making it impossible to evaluate their character or interests."
+    },
+    "overall_score": 10.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 2,\n  \"network\": 2,\n  \"effort\": 1,\n  \"profile_signal\": null,\n  \"profile_read\": {\n    \"authentic\": \"not_assessed\",\n    \"activity\": \"not_assessed\",\n    \"vibe\": \"Minimalist / unclear\",\n    \"consistency\": \"not_assessed\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\n    \"low_effort\",\n    \"needs_manual_check\"\n  ],\n  \"borderline\": true,\n  \"reason\": \"The applicant failed to provide any details in the form and their public profile does not display a post grid, making it impossible to evaluate their character or interests.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "X5voGgg",
+      "Respondent ID": "7Rr1Xlz",
+      "Submitted at": "2026-10-03 12:02:37",
+      "instagram_url": "",
+      "Full name": "Ss",
+      "Email": "bhosale.shraddha.1111@gmail.com",
+      "Instagram (username only, no @)": "Hhh",
+      "What do you do, and what are you working on right now?": "Hh",
+      "What's something you built, organized, or helped someone with recently?": "J",
+      "What would you bring to the room?": "Skills",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/Hhh/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_Hhh.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 3,
+      "fit": 3,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": 1,
+      "profile_read": {
+        "authentic": "no",
+        "activity": "not_assessed",
+        "vibe": "Broken or non-existent page",
+        "consistency": "mismatch"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "possible_test_or_spam",
+        "profile_mismatch"
+      ],
+      "borderline": false,
+      "reason": "The form answers are placeholder characters, and the provided screenshot shows an unavailable page, indicating a test submission."
+    },
+    "overall_score": 20.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 3,\n  \"fit\": 3,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": 1,\n  \"profile_read\": {\n    \"authentic\": \"no\",\n    \"activity\": \"not_assessed\",\n    \"vibe\": \"Broken or non-existent page\",\n    \"consistency\": \"mismatch\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\"low_effort\", \"possible_test_or_spam\", \"profile_mismatch\"],\n  \"borderline\": false,\n  \"reason\": \"The form answers are placeholder characters, and the provided screenshot shows an unavailable page, indicating a test submission.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "Z9LOlrB",
+      "Respondent ID": "pbpRrkq",
+      "Submitted at": "2026-10-03 12:14:09",
+      "instagram_url": "",
+      "Full name": "Goateshwar",
+      "Email": "xyz@gmail.com",
+      "Instagram (username only, no @)": "a.y.ush__",
+      "What do you do, and what are you working on right now?": "Bakchodi, nothing ",
+      "What's something you built, organized, or helped someone with recently?": "My fat tummy, proud of it",
+      "What would you bring to the room?": "Humor",
+      "Would you share the event if you enjoyed it?": "Yes"
+    },
+    "profile_url": "https://www.instagram.com/a.y.ush__/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_a.y.ush__.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 3,
+      "fit": 3,
+      "network": 2,
+      "effort": 1,
+      "profile_signal": 4,
+      "profile_read": {
+        "authentic": "yes",
+        "activity": "medium",
+        "vibe": "Self-deprecating humor and active lifestyle",
+        "consistency": "match"
+      },
+      "recommendation": "waitlist",
+      "flags": [
+        "low_effort"
+      ],
+      "borderline": true,
+      "reason": "Form answers are minimal and joking, but the social profile suggests a genuine, active individual with a humorous vibe who fits the community spirit."
+    },
+    "overall_score": 25.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 3,\n  \"fit\": 3,\n  \"network\": 2,\n  \"effort\": 1,\n  \"profile_signal\": 4,\n  \"profile_read\": {\n    \"authentic\": \"yes\",\n    \"activity\": \"medium\",\n    \"vibe\": \"Self-deprecating humor and active lifestyle\",\n    \"consistency\": \"match\"\n  },\n  \"recommendation\": \"waitlist\",\n  \"flags\": [\"low_effort\"],\n  \"borderline\": true,\n  \"reason\": \"Form answers are minimal and joking, but the social profile suggests a genuine, active individual with a humorous vibe who fits the community spirit.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "vXvDzad",
+      "Respondent ID": "gD6Y004",
+      "Submitted at": "2026-10-03 13:03:45",
+      "instagram_url": "",
+      "Full name": "Roshan ",
+      "Email": "roshann1205@gmail.com",
+      "Instagram (username only, no @)": "__roshanc",
+      "What do you do, and what are you working on right now?": "",
+      "What's something you built, organized, or helped someone with recently?": "",
+      "What would you bring to the room?": "",
+      "Would you share the event if you enjoyed it?": "Maybe"
+    },
+    "profile_url": "https://www.instagram.com/__roshanc/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram___roshanc.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 2,
+      "fit": 3,
+      "network": 2,
+      "effort": 1,
+      "profile_signal": null,
+      "profile_read": {
+        "authentic": "unclear",
+        "activity": "low",
+        "vibe": "private and minimal",
+        "consistency": "unclear"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "no_screenshot"
+      ],
+      "borderline": false,
+      "reason": "The form contains no specific answers or contribution evidence, and the social profile offers no visible activity to support a community invite."
+    },
+    "overall_score": 20.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 2,\n  \"fit\": 3,\n  \"network\": 2,\n  \"effort\": 1,\n  \"profile_signal\": null,\n  \"profile_read\": {\n    \"authentic\": \"unclear\",\n    \"activity\": \"low\",\n    \"vibe\": \"private and minimal\",\n    \"consistency\": \"unclear\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\n    \"low_effort\",\n    \"no_screenshot\"\n  ],\n  \"borderline\": false,\n  \"reason\": \"The form contains no specific answers or contribution evidence, and the social profile offers no visible activity to support a community invite.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "9NgWJM4",
+      "Respondent ID": "68Erq5e",
+      "Submitted at": "2026-10-04 07:04:48",
+      "instagram_url": "https://www.instagram.com/pranavkunjir7/",
+      "Full name": "pk",
+      "Email": "xyz@gmail.com",
+      "Instagram (username only, no @)": "pranavkunjir7",
+      "What do you do, and what are you working on right now?": "",
+      "What's something you built, organized, or helped someone with recently?": "",
+      "What would you bring to the room?": "",
+      "Would you share the event if you enjoyed it?": ""
+    },
+    "profile_url": "https://www.instagram.com/pranavkunjir7/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 1,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": 4,
+      "profile_read": {
+        "authentic": "yes",
+        "activity": "medium",
+        "vibe": "Casual lifestyle",
+        "consistency": "not_assessed"
+      },
+      "recommendation": "waitlist",
+      "flags": [
+        "low_effort",
+        "needs_manual_check"
+      ],
+      "borderline": true,
+      "reason": "The application form is completely blank, providing zero evidence of interest or character despite the profile showing a real person."
+    },
+    "overall_score": 0.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 1,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": 4,\n  \"profile_read\": {\n    \"authentic\": \"yes\",\n    \"activity\": \"medium\",\n    \"vibe\": \"Casual lifestyle\",\n    \"consistency\": \"not_assessed\"\n  },\n  \"recommendation\": \"waitlist\",\n  \"flags\": [\"low_effort\", \"needs_manual_check\"],\n  \"borderline\": true,\n  \"reason\": \"The application form is completely blank, providing zero evidence of interest or character despite the profile showing a real person.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "PRW6BZB",
+      "Respondent ID": "68Erq5e",
+      "Submitted at": "2026-10-04 07:06:41",
+      "instagram_url": "https://www.instagram.com/pranavkunjir7/",
+      "Full name": "pklk",
+      "Email": "xyz@gamil.com",
+      "Instagram (username only, no @)": "pranavkunjir7",
+      "What do you do, and what are you working on right now?": "",
+      "What's something you built, organized, or helped someone with recently?": "",
+      "What would you bring to the room?": "",
+      "Would you share the event if you enjoyed it?": ""
+    },
+    "profile_url": "https://www.instagram.com/pranavkunjir7/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 1,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": 2,
+      "profile_read": {
+        "authentic": "yes",
+        "activity": "low",
+        "vibe": "minimal interaction",
+        "consistency": "mismatch"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort"
+      ],
+      "borderline": false,
+      "reason": "The applicant provided no input for any questions, indicating a lack of interest or application completion."
+    },
+    "overall_score": 0.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 1,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": 2,\n  \"profile_read\": {\n    \"authentic\": \"yes\",\n    \"activity\": \"low\",\n    \"vibe\": \"minimal interaction\",\n    \"consistency\": \"mismatch\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\n    \"low_effort\"\n  ],\n  \"borderline\": false,\n  \"reason\": \"The applicant provided no input for any questions, indicating a lack of interest or application completion.\"\n}"
+  },
+  {
+    "applicant": {
+      "Submission ID": "o9ayVqP",
+      "Respondent ID": "68Erq5e",
+      "Submitted at": "2026-10-04 07:07:31",
+      "instagram_url": "https://www.instagram.com/@pranavkunjir7/",
+      "Full name": "sdkfjds",
+      "Email": "dsfsf@dfsfs.com",
+      "Instagram (username only, no @)": "@pranavkunjir7",
+      "What do you do, and what are you working on right now?": "",
+      "What's something you built, organized, or helped someone with recently?": "",
+      "What would you bring to the room?": "",
+      "Would you share the event if you enjoyed it?": ""
+    },
+    "profile_url": "https://www.instagram.com/@pranavkunjir7/",
+    "screenshot_path": "/home/pranav/Projects/Nivad/instagram_@pranavkunjir7.png",
+    "evaluation": {
+      "contribution": 1,
+      "warmth": 1,
+      "fit": 1,
+      "network": 1,
+      "effort": 1,
+      "profile_signal": null,
+      "profile_read": {
+        "authentic": "not_assessed",
+        "activity": "not_assessed",
+        "vibe": "not_assessed",
+        "consistency": "not_assessed"
+      },
+      "recommendation": "not_priority",
+      "flags": [
+        "low_effort",
+        "possible_test_or_spam",
+        "profile_mismatch"
+      ],
+      "borderline": true,
+      "reason": "The form was submitted with random characters and a broken Instagram link, indicating a low-effort test application."
+    },
+    "overall_score": 0.0,
+    "raw_response": "{\n  \"contribution\": 1,\n  \"warmth\": 1,\n  \"fit\": 1,\n  \"network\": 1,\n  \"effort\": 1,\n  \"profile_signal\": null,\n  \"profile_read\": {\n    \"authentic\": \"not_assessed\",\n    \"activity\": \"not_assessed\",\n    \"vibe\": \"not_assessed\",\n    \"consistency\": \"not_assessed\"\n  },\n  \"recommendation\": \"not_priority\",\n  \"flags\": [\n    \"low_effort\",\n    \"possible_test_or_spam\",\n    \"profile_mismatch\"\n  ],\n  \"borderline\": true,\n  \"reason\": \"The form was submitted with random characters and a broken Instagram link, indicating a low-effort test application.\"\n}"
+  }
+]

@@ -1,0 +1,223 @@
+﻿rank,overall_score,profile_url,screenshot_path,contribution,warmth,fit,network,effort,profile_signal,authentic,activity,vibe,consistency,recommendation,flags,borderline,reason,evaluation_json,raw_response,Submission ID,Respondent ID,Submitted at,instagram_url,Full name,Email,"Instagram (username only, no @)","What do you do, and what are you working on right now?","What's something you built, organized, or helped someone with recently?",What would you bring to the room?,Would you share the event if you enjoyed it?
+1,60.0,https://www.instagram.com/Tee.buildss/,/home/pranav/Projects/Nivad/instagram_Tee.buildss.png,3,4,4,3,3,4,yes,medium,"Positive, energetic, and lifestyle-focused",match,waitlist,"[""low_effort""]",True,"Visuals confirm an active, social lifestyle that fits the community vibe, but the form answers are too short to fully verify their potential contribution.","{""contribution"": 3, ""warmth"": 4, ""fit"": 4, ""network"": 3, ""effort"": 3, ""profile_signal"": 4, ""profile_read"": {""authentic"": ""yes"", ""activity"": ""medium"", ""vibe"": ""Positive, energetic, and lifestyle-focused"", ""consistency"": ""match""}, ""recommendation"": ""waitlist"", ""flags"": [""low_effort""], ""borderline"": true, ""reason"": ""Visuals confirm an active, social lifestyle that fits the community vibe, but the form answers are too short to fully verify their potential contribution.""}","```json
+{
+  ""contribution"": 3,
+  ""warmth"": 4,
+  ""fit"": 4,
+  ""network"": 3,
+  ""effort"": 3,
+  ""profile_signal"": 4,
+  ""profile_read"": {
+    ""authentic"": ""yes"",
+    ""activity"": ""medium"",
+    ""vibe"": ""Positive, energetic, and lifestyle-focused"",
+    ""consistency"": ""match""
+  },
+  ""recommendation"": ""waitlist"",
+  ""flags"": [
+    ""low_effort""
+  ],
+  ""borderline"": true,
+  ""reason"": ""Visuals confirm an active, social lifestyle that fits the community vibe, but the form answers are too short to fully verify their potential contribution.""
+}
+```",Z9LONea,obLK6Qe,2026-10-03 11:52:06,,Tanisha jain,tanisha109@gmail.com,Tee.buildss,Engineer and building community ,Organized event,"Energy, Ideas",Yes
+2,25.0,https://www.instagram.com/a.y.ush__/,/home/pranav/Projects/Nivad/instagram_a.y.ush__.png,1,3,3,2,1,4,yes,medium,Self-deprecating humor and active lifestyle,match,waitlist,"[""low_effort""]",True,"Form answers are minimal and joking, but the social profile suggests a genuine, active individual with a humorous vibe who fits the community spirit.","{""contribution"": 1, ""warmth"": 3, ""fit"": 3, ""network"": 2, ""effort"": 1, ""profile_signal"": 4, ""profile_read"": {""authentic"": ""yes"", ""activity"": ""medium"", ""vibe"": ""Self-deprecating humor and active lifestyle"", ""consistency"": ""match""}, ""recommendation"": ""waitlist"", ""flags"": [""low_effort""], ""borderline"": true, ""reason"": ""Form answers are minimal and joking, but the social profile suggests a genuine, active individual with a humorous vibe who fits the community spirit.""}","{
+  ""contribution"": 1,
+  ""warmth"": 3,
+  ""fit"": 3,
+  ""network"": 2,
+  ""effort"": 1,
+  ""profile_signal"": 4,
+  ""profile_read"": {
+    ""authentic"": ""yes"",
+    ""activity"": ""medium"",
+    ""vibe"": ""Self-deprecating humor and active lifestyle"",
+    ""consistency"": ""match""
+  },
+  ""recommendation"": ""waitlist"",
+  ""flags"": [""low_effort""],
+  ""borderline"": true,
+  ""reason"": ""Form answers are minimal and joking, but the social profile suggests a genuine, active individual with a humorous vibe who fits the community spirit.""
+}",Z9LOlrB,pbpRrkq,2026-10-03 12:14:09,,Goateshwar,xyz@gmail.com,a.y.ush__,"Bakchodi, nothing ","My fat tummy, proud of it",Humor,Yes
+3,20.0,https://www.instagram.com/Hhh/,/home/pranav/Projects/Nivad/instagram_Hhh.png,1,3,3,1,1,1,no,not_assessed,Broken or non-existent page,mismatch,not_priority,"[""low_effort"", ""possible_test_or_spam"", ""profile_mismatch""]",False,"The form answers are placeholder characters, and the provided screenshot shows an unavailable page, indicating a test submission.","{""contribution"": 1, ""warmth"": 3, ""fit"": 3, ""network"": 1, ""effort"": 1, ""profile_signal"": 1, ""profile_read"": {""authentic"": ""no"", ""activity"": ""not_assessed"", ""vibe"": ""Broken or non-existent page"", ""consistency"": ""mismatch""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""possible_test_or_spam"", ""profile_mismatch""], ""borderline"": false, ""reason"": ""The form answers are placeholder characters, and the provided screenshot shows an unavailable page, indicating a test submission.""}","{
+  ""contribution"": 1,
+  ""warmth"": 3,
+  ""fit"": 3,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": 1,
+  ""profile_read"": {
+    ""authentic"": ""no"",
+    ""activity"": ""not_assessed"",
+    ""vibe"": ""Broken or non-existent page"",
+    ""consistency"": ""mismatch""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [""low_effort"", ""possible_test_or_spam"", ""profile_mismatch""],
+  ""borderline"": false,
+  ""reason"": ""The form answers are placeholder characters, and the provided screenshot shows an unavailable page, indicating a test submission.""
+}",X5voGgg,7Rr1Xlz,2026-10-03 12:02:37,,Ss,bhosale.shraddha.1111@gmail.com,Hhh,Hh,J,Skills,Yes
+4,20.0,https://www.instagram.com/__roshanc/,/home/pranav/Projects/Nivad/instagram___roshanc.png,1,2,3,2,1,,unclear,low,private and minimal,unclear,not_priority,"[""low_effort"", ""no_screenshot""]",False,"The form contains no specific answers or contribution evidence, and the social profile offers no visible activity to support a community invite.","{""contribution"": 1, ""warmth"": 2, ""fit"": 3, ""network"": 2, ""effort"": 1, ""profile_signal"": null, ""profile_read"": {""authentic"": ""unclear"", ""activity"": ""low"", ""vibe"": ""private and minimal"", ""consistency"": ""unclear""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""no_screenshot""], ""borderline"": false, ""reason"": ""The form contains no specific answers or contribution evidence, and the social profile offers no visible activity to support a community invite.""}","{
+  ""contribution"": 1,
+  ""warmth"": 2,
+  ""fit"": 3,
+  ""network"": 2,
+  ""effort"": 1,
+  ""profile_signal"": null,
+  ""profile_read"": {
+    ""authentic"": ""unclear"",
+    ""activity"": ""low"",
+    ""vibe"": ""private and minimal"",
+    ""consistency"": ""unclear""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [
+    ""low_effort"",
+    ""no_screenshot""
+  ],
+  ""borderline"": false,
+  ""reason"": ""The form contains no specific answers or contribution evidence, and the social profile offers no visible activity to support a community invite.""
+}",vXvDzad,gD6Y004,2026-10-03 13:03:45,,Roshan ,roshann1205@gmail.com,__roshanc,,,,Maybe
+5,10.0,https://www.instagram.com/pranavkunjir7/,/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png,1,1,2,2,1,3,yes,medium,personal and casual,mismatch,not_priority,"[""low_effort""]",False,"The applicant provided single-word answers indicating zero effort, which is too low to prioritize despite the profile showing a real, casual account.","{""contribution"": 1, ""warmth"": 1, ""fit"": 2, ""network"": 2, ""effort"": 1, ""profile_signal"": 3, ""profile_read"": {""authentic"": ""yes"", ""activity"": ""medium"", ""vibe"": ""personal and casual"", ""consistency"": ""mismatch""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort""], ""borderline"": false, ""reason"": ""The applicant provided single-word answers indicating zero effort, which is too low to prioritize despite the profile showing a real, casual account.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 2,
+  ""network"": 2,
+  ""effort"": 1,
+  ""profile_signal"": 3,
+  ""profile_read"": {
+    ""authentic"": ""yes"",
+    ""activity"": ""medium"",
+    ""vibe"": ""personal and casual"",
+    ""consistency"": ""mismatch""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [""low_effort""],
+  ""borderline"": false,
+  ""reason"": ""The applicant provided single-word answers indicating zero effort, which is too low to prioritize despite the profile showing a real, casual account.""
+}",vXvDPol,rjM2xGM,2026-10-03 11:39:25,,Pranav kunjir,pranavkunjir93@gmail.com,@pranavkunjir7,Hi,Hi,Introductions,Yes
+6,10.0,https://www.instagram.com/Yad24nesh/,/home/pranav/Projects/Nivad/instagram_Yad24nesh.png,1,1,2,2,1,,not_assessed,not_assessed,Minimalist / unclear,not_assessed,not_priority,"[""low_effort"", ""needs_manual_check""]",True,"The applicant failed to provide any details in the form and their public profile does not display a post grid, making it impossible to evaluate their character or interests.","{""contribution"": 1, ""warmth"": 1, ""fit"": 2, ""network"": 2, ""effort"": 1, ""profile_signal"": null, ""profile_read"": {""authentic"": ""not_assessed"", ""activity"": ""not_assessed"", ""vibe"": ""Minimalist / unclear"", ""consistency"": ""not_assessed""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""needs_manual_check""], ""borderline"": true, ""reason"": ""The applicant failed to provide any details in the form and their public profile does not display a post grid, making it impossible to evaluate their character or interests.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 2,
+  ""network"": 2,
+  ""effort"": 1,
+  ""profile_signal"": null,
+  ""profile_read"": {
+    ""authentic"": ""not_assessed"",
+    ""activity"": ""not_assessed"",
+    ""vibe"": ""Minimalist / unclear"",
+    ""consistency"": ""not_assessed""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [
+    ""low_effort"",
+    ""needs_manual_check""
+  ],
+  ""borderline"": true,
+  ""reason"": ""The applicant failed to provide any details in the form and their public profile does not display a post grid, making it impossible to evaluate their character or interests.""
+}",PRW9EAd,814A1D5,2026-10-03 12:00:50,,Yc,yadnesh.chhatre@gmail.com,Yad24nesh ,,,,Yes
+7,5.0,https://www.instagram.com/pranavkunjir8/,/home/pranav/Projects/Nivad/instagram_pranavkunjir8.png,1,1,2,1,1,2,unclear,low,minimal with no community signal,unclear,not_priority,"[""low_effort"", ""possible_test_or_spam""]",True,"The form is complete gibberish indicating zero thought, and the profile is sparse with no evidence connecting the applicant to the running community.","{""contribution"": 1, ""warmth"": 1, ""fit"": 2, ""network"": 1, ""effort"": 1, ""profile_signal"": 2, ""profile_read"": {""authentic"": ""unclear"", ""activity"": ""low"", ""vibe"": ""minimal with no community signal"", ""consistency"": ""unclear""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""possible_test_or_spam""], ""borderline"": true, ""reason"": ""The form is complete gibberish indicating zero thought, and the profile is sparse with no evidence connecting the applicant to the running community.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 2,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": 2,
+  ""profile_read"": {
+    ""authentic"": ""unclear"",
+    ""activity"": ""low"",
+    ""vibe"": ""minimal with no community signal"",
+    ""consistency"": ""unclear""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [""low_effort"", ""possible_test_or_spam""],
+  ""borderline"": true,
+  ""reason"": ""The form is complete gibberish indicating zero thought, and the profile is sparse with no evidence connecting the applicant to the running community.""
+}",OQeXaBa,68Erq5e,2026-10-03 11:13:24,,Pranav Kunjir,pranavkunjir93@gmail.com,https://www.instagram.com/pranavkunjir8/,sdalfjs,"sdfas
+","Ideas, Skills",Yes
+8,0.0,https://instagram.com/pranav,/home/pranav/Projects/Nivad/instagram_pranav.png,1,1,1,1,1,2,no,low,Empty and nondescript,mismatch,not_priority,"[""low_effort"", ""profile_mismatch"", ""possible_test_or_spam"", ""needs_manual_check""]",False,"The form consists entirely of nonsensical one-word inputs, and the attached profile shows 0 posts and 0 following, which are typical characteristics of a bot or spam account.","{""contribution"": 1, ""warmth"": 1, ""fit"": 1, ""network"": 1, ""effort"": 1, ""profile_signal"": 2, ""profile_read"": {""authentic"": ""no"", ""activity"": ""low"", ""vibe"": ""Empty and nondescript"", ""consistency"": ""mismatch""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""profile_mismatch"", ""possible_test_or_spam"", ""needs_manual_check""], ""borderline"": false, ""reason"": ""The form consists entirely of nonsensical one-word inputs, and the attached profile shows 0 posts and 0 following, which are typical characteristics of a bot or spam account.""}","```json
+{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 1,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": 2,
+  ""profile_read"": {
+    ""authentic"": ""no"",
+    ""activity"": ""low"",
+    ""vibe"": ""Empty and nondescript"",
+    ""consistency"": ""mismatch""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [
+    ""low_effort"",
+    ""profile_mismatch"",
+    ""possible_test_or_spam"",
+    ""needs_manual_check""
+  ],
+  ""borderline"": false,
+  ""reason"": ""The form consists entirely of nonsensical one-word inputs, and the attached profile shows 0 posts and 0 following, which are typical characteristics of a bot or spam account.""
+}
+```",QoaR7YY,rjM2xGM,2026-10-03 11:36:08,,Pk,pranavkunjir93@gmail.com,instagram.com/pranav,Hello,Ji,"Humor, Energy",Yes
+9,0.0,https://www.instagram.com/pranavkunjir7/,/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png,1,1,1,1,1,4,yes,medium,Casual lifestyle,not_assessed,waitlist,"[""low_effort"", ""needs_manual_check""]",True,"The application form is completely blank, providing zero evidence of interest or character despite the profile showing a real person.","{""contribution"": 1, ""warmth"": 1, ""fit"": 1, ""network"": 1, ""effort"": 1, ""profile_signal"": 4, ""profile_read"": {""authentic"": ""yes"", ""activity"": ""medium"", ""vibe"": ""Casual lifestyle"", ""consistency"": ""not_assessed""}, ""recommendation"": ""waitlist"", ""flags"": [""low_effort"", ""needs_manual_check""], ""borderline"": true, ""reason"": ""The application form is completely blank, providing zero evidence of interest or character despite the profile showing a real person.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 1,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": 4,
+  ""profile_read"": {
+    ""authentic"": ""yes"",
+    ""activity"": ""medium"",
+    ""vibe"": ""Casual lifestyle"",
+    ""consistency"": ""not_assessed""
+  },
+  ""recommendation"": ""waitlist"",
+  ""flags"": [""low_effort"", ""needs_manual_check""],
+  ""borderline"": true,
+  ""reason"": ""The application form is completely blank, providing zero evidence of interest or character despite the profile showing a real person.""
+}",9NgWJM4,68Erq5e,2026-10-04 07:04:48,https://www.instagram.com/pranavkunjir7/,pk,xyz@gmail.com,pranavkunjir7,,,,
+10,0.0,https://www.instagram.com/pranavkunjir7/,/home/pranav/Projects/Nivad/instagram_pranavkunjir7.png,1,1,1,1,1,2,yes,low,minimal interaction,mismatch,not_priority,"[""low_effort""]",False,"The applicant provided no input for any questions, indicating a lack of interest or application completion.","{""contribution"": 1, ""warmth"": 1, ""fit"": 1, ""network"": 1, ""effort"": 1, ""profile_signal"": 2, ""profile_read"": {""authentic"": ""yes"", ""activity"": ""low"", ""vibe"": ""minimal interaction"", ""consistency"": ""mismatch""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort""], ""borderline"": false, ""reason"": ""The applicant provided no input for any questions, indicating a lack of interest or application completion.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 1,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": 2,
+  ""profile_read"": {
+    ""authentic"": ""yes"",
+    ""activity"": ""low"",
+    ""vibe"": ""minimal interaction"",
+    ""consistency"": ""mismatch""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [
+    ""low_effort""
+  ],
+  ""borderline"": false,
+  ""reason"": ""The applicant provided no input for any questions, indicating a lack of interest or application completion.""
+}",PRW6BZB,68Erq5e,2026-10-04 07:06:41,https://www.instagram.com/pranavkunjir7/,pklk,xyz@gamil.com,pranavkunjir7,,,,
+11,0.0,https://www.instagram.com/@pranavkunjir7/,/home/pranav/Projects/Nivad/instagram_@pranavkunjir7.png,1,1,1,1,1,,not_assessed,not_assessed,not_assessed,not_assessed,not_priority,"[""low_effort"", ""possible_test_or_spam"", ""profile_mismatch""]",True,"The form was submitted with random characters and a broken Instagram link, indicating a low-effort test application.","{""contribution"": 1, ""warmth"": 1, ""fit"": 1, ""network"": 1, ""effort"": 1, ""profile_signal"": null, ""profile_read"": {""authentic"": ""not_assessed"", ""activity"": ""not_assessed"", ""vibe"": ""not_assessed"", ""consistency"": ""not_assessed""}, ""recommendation"": ""not_priority"", ""flags"": [""low_effort"", ""possible_test_or_spam"", ""profile_mismatch""], ""borderline"": true, ""reason"": ""The form was submitted with random characters and a broken Instagram link, indicating a low-effort test application.""}","{
+  ""contribution"": 1,
+  ""warmth"": 1,
+  ""fit"": 1,
+  ""network"": 1,
+  ""effort"": 1,
+  ""profile_signal"": null,
+  ""profile_read"": {
+    ""authentic"": ""not_assessed"",
+    ""activity"": ""not_assessed"",
+    ""vibe"": ""not_assessed"",
+    ""consistency"": ""not_assessed""
+  },
+  ""recommendation"": ""not_priority"",
+  ""flags"": [
+    ""low_effort"",
+    ""possible_test_or_spam"",
+    ""profile_mismatch""
+  ],
+  ""borderline"": true,
+  ""reason"": ""The form was submitted with random characters and a broken Instagram link, indicating a low-effort test application.""
+}",o9ayVqP,68Erq5e,2026-10-04 07:07:31,https://www.instagram.com/@pranavkunjir7/,sdkfjds,dsfsf@dfsfs.com,@pranavkunjir7,,,,

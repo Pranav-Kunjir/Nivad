@@ -50,7 +50,7 @@ What they do / are working on: $doing
 Recent build or help: $built
 What they would bring: $bring
 Would share the event: $share
-[Screenshots attached after this text]
+[A profile screenshot is attached as image input when available. If no image is attached, treat the profile as not assessed.]
 
 OUTPUT: JSON only, exactly this shape, one short sentence per reason:
 {
